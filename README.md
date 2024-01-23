@@ -8,5 +8,5 @@ I enjoy a lot to work on FOSS (or personal) projects.
 *How did I get here?* Just put a lot of hours into it, and one day wake up to realising you've done something noticeable.
 
 ## Contact me
-Want to message me on your favorite social media platform? `@CosminPerRam` is my tag everywhere, always interested in hearing others stories.  
+Want to message me on your favorite social media platform? `CosminPerRam` is my tag and name everywhere, always interested in hearing others stories.  
 For more serious inquires, feel free to contact me via e-mail or LinkedIn.
